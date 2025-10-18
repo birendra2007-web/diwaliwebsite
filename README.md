@@ -1,2 +1,3 @@
 # diwaliwebsite
-This is my first Repository, also  it is the beginning a coding journey.
+This is my first Repository.
+Author-Birendra KUmar
