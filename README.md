@@ -1,6 +1,6 @@
 # diwaliwebsite
 This is my first Repository.
 <br>
-Author-Birendra Kumar
+Author-Birendra Yadav
 <br>
 title-Diwali
